@@ -44,3 +44,12 @@ body {
 	height: 50px;
 	text-align: center;
 }
+a:link {
+     color: #614737;
+}
+a:visited {
+     color: #96C7BE;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
