@@ -31,10 +31,11 @@ body {
 }
 .content {
 	background: #70452F;
-	margin: 0px;
+	margin: 10px;
+	padding: 5;
 	float: left;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 .footer {
 	background: #FFD398;
